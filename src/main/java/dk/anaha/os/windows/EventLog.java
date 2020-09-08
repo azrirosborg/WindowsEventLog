@@ -25,12 +25,15 @@ import com.sun.jna.platform.win32.WinNT.PSID;
  * http://www.gnu.org/licenses/licenses.html
  *
  * A copy is also included in the downloadable source code package
- * containing JNA, in file "LGPL2.1".
+ * containing EL, in file "LGPL2.1".
  *
  * You may obtain a copy of the Apache License at:
  *
  * http://www.apache.org/licenses/
  *
+ * A copy is also included in the downloadable source code package
+ * containing EL, in file "AL2.0".
+ * 
  */
 
 /**
