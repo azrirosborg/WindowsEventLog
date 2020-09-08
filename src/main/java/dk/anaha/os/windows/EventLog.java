@@ -31,8 +31,6 @@ import com.sun.jna.platform.win32.WinNT.PSID;
  *
  * http://www.apache.org/licenses/
  *
- * A copy is also included in the downloadable source code package
- * containing JNA, in file "AL2.0".
  */
 
 /**
