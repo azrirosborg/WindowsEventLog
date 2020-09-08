@@ -1,5 +1,5 @@
 # WindowsEventLog
-Native Windows Event Log from Java as Java Logger
+Native Windows EventLog from Java as Java Logger
 
 This project implements a EventLog class which will log to 
 to your Microsoft Windows EventLog by using JNA as bridge
